@@ -34,4 +34,4 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: http://lawu88slot.levitra734.us/sitemap.xml
+Sitemap: http://chip4d.levitra734.us/sitemap.xml
